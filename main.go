@@ -20,7 +20,8 @@ func main() {
 
 	//requestByHeaders()
 
-	responseTest()
+	// responseTest()
+
 }
 
 func get() {
